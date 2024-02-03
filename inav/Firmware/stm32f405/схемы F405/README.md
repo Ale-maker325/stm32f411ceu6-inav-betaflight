@@ -2,7 +2,8 @@
 
 Заметки по схеме  
 
-Распиновку смотреть пока что только [тут](../5.1%20PPM%20MPU6xx0%2Cmpu9250%2Cbmi160/target/STM32F405PY1v1) в target.h и target.c
+Распиновку смотреть пока что только [тут](../Firmware/target/STM32F405PY1v1) в target.h и target.c
+inav/Firmware/stm32f405/Firmware/target/STM32F405PY1v1
 
 ![pinout_bmi160](./bmi160.png)  
 ![pinout](./pinout.jpg)  
